@@ -1,5 +1,5 @@
 "use client";
-import { ReactNode, useEffect, useState } from "react";
+import { ReactNode,  useState } from "react";
 import { Layout, ConfigProvider, Spin } from "antd";
 import CustomHeader from "@/app/components/Header";
 import Sidebar from "@/app/components/Sidebar";
